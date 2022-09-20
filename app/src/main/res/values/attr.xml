@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--We can use attributes for customizing the values in different theme -->
+<resources>
+    <attr name="onIconColor" format="color"/> <!--This variable defines the color of the icon. We need black in lightMode and white in darkMode-->
+    <attr name="secondaryColor" format="color"/>
+</resources>

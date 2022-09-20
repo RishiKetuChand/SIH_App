@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:orientation="vertical">
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/outlinedTextFieldID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:counterEnabled="true"
+                app:counterMaxLength="16"
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:hint="@string/enter_application_id">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textNoSuggestions|textPersonName|textCapSentences"
+                android:singleLine="true"
+                android:maxEms="16"
+                android:textSize="18sp"
+                android:imeOptions="actionDone"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:rowCount="1">
+
+                <Button
+                    android:id="@+id/cancel"
+                    android:layout_column="0"
+                    android:layout_row="0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:text="@string/cancel"
+                    android:textColor="?attr/colorPrimary"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:padding="8dp"
+                    android:layout_margin="16dp"/>
+
+                <Button
+                    android:id="@+id/submit"
+                    android:layout_column="1"
+                    android:layout_row="0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:padding="8dp"
+                    android:textColor="?attr/colorOnPrimary"
+                    android:layout_margin="16dp"
+                    app:background="?attr/colorPrimary"
+                    android:text="@string/submit" />
+
+            </GridLayout>
+        </LinearLayout>
+
+</LinearLayout>

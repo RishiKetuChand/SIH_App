@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/corner_radius.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/expanding_arrow_24.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/ic_bulk_search.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/navigation_bar.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/outline_add.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/search_bg.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/drawable/secondary_button.xml" value="0.1615" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_add_gram_details.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_add_project.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_arch_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_assistant_eng.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_building_details.xml" value="0.1" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_buliding_detials.xml" value="0.264" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_case_worker.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_client_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_gram_panchayat.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_sample.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_sample2.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_sign_in.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/activity_user_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/biuilding_input_dailog.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/building_id_dailog.xml" value="0.4" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/case_worker_item.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/connection_check.xml" value="0.264" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/connectivity_check.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/corner_radius.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/draft_recycler_view_item.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_address.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_developer_email.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_draft.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_email.xml" value="0.264" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_email_client.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_gram_details.xml" value="0.264" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_pending.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_phone_number.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_sanctioned.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_scationed.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_structural_email.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/fragment_upload_documents.xml" value="0.20863616930312098" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/list_item.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/pending_recycler_view_item.xml" value="0.264" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/sanctioned_recycler_view_item.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/secondary_button.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroiStudioProject/UserArchitectSIH/app/src/main/res/layout/viewpager_tab_layout.xml" value="0.22146739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">UserArchitectSIH</string>
+    <string name="add">Add</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secretKey">RishiKetuChandSIHApplication</string>
+    <string name="exit">Exit</string>
+    <string name="try_again">Try Again</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_application_id">Enter Application ID</string>
+    <string name="please_enter_valid_application_id">Please enter valid application id</string>
+    <string name="view_file">View File</string>
+    <string name="view_license">View License</string>
+    <string name="edit">Edit</string>
+    <string name="signInAskEmailButton">Next</string>
+    <string name="projectAskEmailButton">Fetch Info</string>
+    <string name="emailExample">client123@gmail.com</string>
+    <string name="phoneExample">8660099771</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="invalidPhone">Invalid Phone Number</string>
+    <string name="thisIsMandatory">This is mandatory</string>
+    <string name="projectAskEmail">enter client\'s \nemail address</string>
+    <string name="structuralEmail">enter structural engineer \nemail address</string>
+    <string name="askPhone">give us your \nphone number</string>
+    <string name="projectAskEmailSub">this is necessary to fetch required \ndetails about the client</string>
+    <string name="askStructuralSub">this is necessary to fetch required \ndetails about the structural</string>
+    <string name="askPhoneSub">to apply, we need your mobile number linked to your aadhar card</string>
+    <string name="projectAskEmailNote">Note: To complete this step, client must have an active account.If not, please ask your client to register using the application.</string>
+    <string name="askPhoneNote"></string>
+    <string name="signInAskEmail">give us your \nemail address</string>
+    <string name="signInAskEmailSub">this is necessary to identify you \nand provide you with updates</string>
+    <string name="signInAskEmailNote">Note: To complete this step, you must has a valid email address</string>
+    <string name="building_details">Building Details</string>
+    <string name="select_building_category">Select Building Category</string>
+    <string name="addProject">Add Project</string>
+    <string name="buildingDetails">Building Details</string>
+    <string name="project_type">Project Type</string>
+    <string name="project_component">Project Component</string>
+    <string name="project_category">Project Category</string>
+    <string name="classification">Classification</string>
+    <string name="zone">Zone</string>
+    <string name="number_of_dwelling_unit">Number of dwelling Unit</string>
+    <string name="number_of_basement_floor">Number of basement Floor</string>
+    <string name="number_of_ground_floor">Number of ground floor</string>
+    <string name="number_of_upper_floor">Number of upper floor</string>
+    <string name="number_of_stilt">Number of stilt</string>
+    <string name="project_details">Project Details</string>
+    <string name="area_details">Area Details</string>
+    <string name="floor_details">Floor Details</string>
+    <string name="next">Next</string>
+    <string name="invalidInfo">Invalid Info</string>
+    <string name="gram_panchayat_details">Gram Panchayat Details</string>
+    <string name="state">State</string>
+    <string name="state_union_territories">State / Union Territories</string>
+    <string name="district">District</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="askAddress">give us your\naddress</string>
+    <string name="askAddressSub">this is additional information required to create account</string>
+    <string name="flat_house_no_building_company">Flat, House no, Building, Company</string>
+    <string name="area_street_sector_village">Area, Street, Sector, Village</string>
+    <string name="application_id">Application ID</string>
+    <string name="temporary_id">Temporary ID</string>
+    <string name="building_owner">Building Owner</string>
+    <string name="building_name">Building Name</string>
+    <string name="current_stage">Current Stage</string>
+    <string name="est_comp_date">Estimated Completion Date</string>
+    <string name="allotted_date">Allotted Date</string>
+    <string name="previous_stage">Previous Stage</string>
+    <string name="previous_stage_comp_date">Previous Stage Completion Date</string>
+    <string name="completion_date">Completion Date</string>
+
+
+    <string-array name="buildingCategory">
+        <item>Low-Rise Building</item>
+        <item>High-Rise Building</item>
+    </string-array>
+
+    <string-array name="projectType">
+        <item>New Construction</item>
+        <item>Alteration or Addition</item>
+        <item>Revision</item>
+    </string-array>
+
+    <string-array name="zone">
+        <item>Intensively Developed Area</item>
+        <item>Under Developed Area </item>
+    </string-array>
+
+    <string-array name="classification">
+        <item>Main</item>
+        <item>SubMain</item>
+    </string-array>
+
+    <string-array name="projectComponents">
+        <item>Residential Building</item>
+        <item>Commercial Building</item>
+    </string-array>
+
+    <string-array name="projectCategory">
+        <item>Residential Building</item>
+        <item>Commercial Building</item>
+    </string-array>
+
+
+    <string-array name="dwellingUnit">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="stateAndUnionList">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Jammu and Kashmir</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry</item>
+    </string-array>
+    <string-array name="district">
+        <item>Bagalkot</item>
+        <item>Bengaluru Urban</item>
+        <item>Bengaluru Rural</item>
+        <item>Belagavi</item>
+        <item>Ballari</item>
+        <item>Bidar</item>
+        <item>Vijayapur</item>
+        <item>Chamarajanagar</item>
+        <item>Chikballapur</item>
+        <item>Chikkamagaluru</item>
+        <item>Chitradurga</item>
+        <item>Dakshina Kannada</item>
+        <item>Davanagere</item>
+        <item>Dharwad</item>
+        <item>Gadag</item>
+        <item>Kalaburagi</item>
+        <item>Hassan</item>
+        <item>Haveri</item>
+        <item>Kodagu</item>
+        <item>Kolar</item>
+        <item>Koppal</item>
+        <item>Mandya</item>
+        <item>Mysuru</item>
+        <item>Raichur</item>
+        <item>Ramanagara</item>
+        <item>Shivamogga</item>
+        <item>Tumakuru</item>
+        <item>Udupi</item>
+        <item>Uttara Kannada</item>
+        <item>Yadgir</item>
+
+    </string-array>
+</resources>
